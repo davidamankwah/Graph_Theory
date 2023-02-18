@@ -2,4 +2,4 @@ Graph Theory Project
 
 <h1>Introduction</h1>
 
-Hi my name is David Amankwah, and today i will be discussion all the work i did on my graph theory project. I will be sharing my knowledge and findings from the reseaching that i conducted. I hope to make understanding of grpahy thoery very clear.
+Hello, my name is David Amankwah, and today I'll be talking about everything I worked on for my research on graph theory. I'll be discussing my knowledge and the results of the research I did. I want to make the graphy theory very easy to understand.
