@@ -35,9 +35,9 @@ Project Jupyter is a project to develop open-source software, open standards, an
 
 <h1> Conclusion</h1>
 
-In conclusion, I was able to gain an understanding for the graph isomorphism problem. The research i did was beneficial. The topic was very complex and challenging. However I happy that is allowed me to work on my own. I tried to explain all the information on my research in depth. I tried to be very clear when explaining the information on my graph theory project. I have gained so much knowledge about researching graphs.
+In conclusion, I was able to gain an understanding for the graph isomorphism problem. The research i did was beneficial. The topic was very complex and challenging. However, I was happy that is allowed me to work on my own. I tried to explain all the information on my research in depth. I tried to be very clear when explaining the information on my graph theory project. I have gained so much knowledge about researching graphs.
 
-Python was a very simple and clear coding platform. I was happy to have learned this programming lanaguage. Python was certainly a language that I used for learning about the graph isomorphism. I was able to use numpy, itertools, networkx and matplotlib library to work on the coding of the graph isomorphism problem. I checked to if two graphs were isomorphism.
+Python was a very simple and clear coding platform. I was happy to learning this programming lanaguage. Python was certainly a language that I used for learning about the graph isomorphism. I was able to use numpy, itertools, networkx and matplotlib library to work on the coding of the graph isomorphism problem. I checked to see if two graphs were isomorphism.
 
 Using Jupyter notebook is the best way to explain work and code. Both can be done so efficiently with Juptyer notebook. I enjoyed the platform so much. It was very easy to understand. I was able to display all my reseach on graph theory, graph isomorphism, graph representation and the graph isomorphism problem. I can see myself using Jupyter for the future when i need to do some research.
 
